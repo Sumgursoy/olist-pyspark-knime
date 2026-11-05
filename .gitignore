@@ -1,0 +1,11 @@
+# Veri seti (Kaggle'dan indirilir, depoya eklenmez)
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Spark çıktıları
+spark-warehouse/
+metastore_db/
+derby.log
